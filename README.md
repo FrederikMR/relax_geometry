@@ -1,2 +1,1 @@
-# srg
-Stochastic RLEAX Geometry
+# Stochastic RLEAX Geometry
